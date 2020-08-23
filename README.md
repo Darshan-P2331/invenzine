@@ -1,2 +1,2 @@
-# Hi I'm Darshan.P
-Just an introduction
+# Front-End for Invenzine App
+It is a UI Design for a News & Magazine Category App
